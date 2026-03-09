@@ -5,7 +5,7 @@
 <!---
 - 🧠 Currently working at [Núcleo de Investigación y Desarrollo Tecnológico](https://nidtec.pol.una.py/), [Universidad Comunera](https://ucom.edu.py), and [Universidad Politécnica Taiwán-Paraguay](https://uptp.edu.py)
 --->
-- 🧠 Currently working at [Núcleo de Investigación y Desarrollo Tecnológico](https://nidtec.pol.una.py/), [Universidad Comunera](https://ucom.edu.py), and [Universidad Politécnica Taiwán-Paraguay](https://www.uptp.edu.py)
+- 🧠 Currently working at [Universidad Comunera](https://ucom.edu.py), and [Universidad Politécnica Taiwán-Paraguay](https://www.uptp.edu.py)
 
 - 🖥️ Collaborating in [KrySBAS](https://github.com/nidtec-una/krysbas-dev), a series of Krylov-based adaptive solvers for MATLAB
 - 🔎 Interests: Linear Algebra, Mathematical and Computational Modeling, Software Enginnering for Scientific Computing
